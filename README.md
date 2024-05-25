@@ -1,17 +1,17 @@
 # python-django-task
 
 Prerequisites                                                                                                                             
-pip install django djangorestframework requests
-python -m venv env
-env\Scripts\activate
-
-django-admin startproject webhook_app #anything as project name
-cd webhook_app
-python manage.py startapp core
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-
+pip install django djangorestframework requests                                                                                           
+python -m venv env                                                                                                                        
+env\Scripts\activate                                                                                                                      
+                                                                                                                                          
+django-admin startproject webhook_app #anything as project name                                                                           
+cd webhook_app                                                                                                                            
+python manage.py startapp core                                                                                                            
+python manage.py makemigrations                                                                                                           
+python manage.py migrate                                                                                                                  
+python manage.py runserver                                                                                                                
+                                                                                                                                          
 Project Structure
 webhook_app/
 ├── core/
