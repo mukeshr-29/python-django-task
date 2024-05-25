@@ -1,6 +1,6 @@
 # python-django-task
 
-Prerequisites 
+Prerequisites                                                                                                                             
 pip install django djangorestframework requests
 python -m venv env
 env\Scripts\activate
