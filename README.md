@@ -36,7 +36,7 @@ webhook_app/
 
 ![Screenshot 2024-05-24 190119](https://github.com/mukeshr-29/python-django-task/assets/137137629/a913d71a-948b-41f0-b7df-54a1e7eb6591)
 
-![Screenshot 2024-05-24 190022](https://github.com/mukeshr-29/python-django-task/assets/137137629/a415f3ff-b65f-4def-a2fd-910e38bc600e)
+![Screenshot 2024-05-24 185431](https://github.com/mukeshr-29/python-django-task/assets/137137629/d36fb4ea-987b-407e-a37d-df6fc827a7b7)
 
 ![Screenshot 2024-05-24 185932](https://github.com/mukeshr-29/python-django-task/assets/137137629/ee3037c6-c611-476e-a5f9-327af8b86414)
 
